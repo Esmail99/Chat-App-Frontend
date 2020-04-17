@@ -77,7 +77,7 @@ class Register extends Component {
     e.preventDefault();
     const { username, password, onRegister, history, validateUsername } = this.props
     if(this.validate()) {
-      axios.post('http://localhost:4000/register', {
+      axios.post('https://fathomless-taiga-86436.herokuapp.com/register', {
         username: username,
         password: password
       })

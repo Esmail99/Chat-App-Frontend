@@ -10,7 +10,7 @@ const scrollToBottom = () => {
 }
 
 // Connecting Socket.io
-const socket = socketIOClient('http://localhost:4000');
+const socket = socketIOClient('https://fathomless-taiga-86436.herokuapp.com/');
 socket.on('chat',(data) => {
     document.getElementById('typing').innerHTML = '';
     document.getElementById('chatMessages').innerHTML += '<p><strong>' + data.name + ': </strong>' + data.message + '</p><br/>';
