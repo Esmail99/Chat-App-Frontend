@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Chat-App-Frontend/static/css/main.39437af3.chunk.css",
+    "main.js": "/Chat-App-Frontend/static/js/main.4cc487e6.chunk.js",
+    "main.js.map": "/Chat-App-Frontend/static/js/main.4cc487e6.chunk.js.map",
+    "runtime-main.js": "/Chat-App-Frontend/static/js/runtime-main.432d6cee.js",
+    "runtime-main.js.map": "/Chat-App-Frontend/static/js/runtime-main.432d6cee.js.map",
+    "static/css/2.de424728.chunk.css": "/Chat-App-Frontend/static/css/2.de424728.chunk.css",
+    "static/js/2.1fc33d85.chunk.js": "/Chat-App-Frontend/static/js/2.1fc33d85.chunk.js",
+    "static/js/2.1fc33d85.chunk.js.map": "/Chat-App-Frontend/static/js/2.1fc33d85.chunk.js.map",
+    "index.html": "/Chat-App-Frontend/index.html",
+    "precache-manifest.d5f154f4b7f2f7ebbc4c857e3fbc1b6e.js": "/Chat-App-Frontend/precache-manifest.d5f154f4b7f2f7ebbc4c857e3fbc1b6e.js",
+    "service-worker.js": "/Chat-App-Frontend/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/Chat-App-Frontend/static/css/2.de424728.chunk.css.map",
+    "static/css/main.39437af3.chunk.css.map": "/Chat-App-Frontend/static/css/main.39437af3.chunk.css.map",
+    "static/js/2.1fc33d85.chunk.js.LICENSE.txt": "/Chat-App-Frontend/static/js/2.1fc33d85.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.432d6cee.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.1fc33d85.chunk.js",
+    "static/css/main.39437af3.chunk.css",
+    "static/js/main.4cc487e6.chunk.js"
+  ]
+}
