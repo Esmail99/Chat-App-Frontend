@@ -1,0 +1,12 @@
+.chat-container{
+    height: 30rem;
+    width: 30rem;
+}
+
+#chatMessages > p{
+    display: inline-block;
+    color: white;
+    padding: 1rem;
+    background-color: #0099ff;
+    border-radius: 2rem;
+}
